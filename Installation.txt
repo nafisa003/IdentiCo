@@ -1,0 +1,13 @@
+---REQUIRED SOFTWARES AND PACKAGES---
+
+1. NodeJS and NPM
+Link: https://www.pluralsight.com/guides/getting-started-with-nodejs
+
+2. MetaMask Extension(Ethereum Cryptocurrency Wallet)
+Link: https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn?hl=en
+
+3. Any QR (Quick Response) Code Reader.
+
+- Open the client folder using Visual Studio Code or any other relevant code editor.
+- Open a terminal (Windows Command Prompt or Powershell/Git Bash) and use the command 'npm start' to start the React App.
+- Use the app by interacting with the MetaMask extension of your browser!

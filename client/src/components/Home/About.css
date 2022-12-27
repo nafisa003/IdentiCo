@@ -1,0 +1,12 @@
+.feature-heading{
+    font-size: 40px;
+    font-weight: 700;
+   
+}
+.feature{
+    font-size: 15px;
+    font-style: italic;
+}
+.feature-container{
+    background-color:beige ;
+}
